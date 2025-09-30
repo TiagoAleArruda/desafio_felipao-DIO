@@ -8,7 +8,7 @@ if (xp >= 0 && xp <= 1000) {
 } else if (xp >= 2001 && xp <= 5000) {
     console.log("O Herói " + heroi + " está no nível: Bronze")
     // o range de 5001 até 6000, não foi prevista para condicionarmos. Por conta própria, realoquei os níveis do Herói para que essa range seja atendida.
-    // Caso tenha uma segestão, informa para refaturarmos e fazer um novo commit. 
+    // Caso tenha uma sugestão, informa para re-faturar e fazer um novo commit. 
 } else if (xp >= 5001 && xp <= 6000) {
     console.log("O Herói " + heroi + " está no nível: Prata")
 } else if (xp >= 6001 && xp <= 7000) {
@@ -27,7 +27,7 @@ if (xp >= 0 && xp <= 1000) {
 
 
 
-// switch (xp) {
+// switch (true) {
 //     case (xp <= 1000):
 //         console.log("O Herói " + heroi + " está no nível: Ferro")
 //         break
