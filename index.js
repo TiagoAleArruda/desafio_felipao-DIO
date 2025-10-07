@@ -1,5 +1,5 @@
 let heroi = "Tiago Arruda"
-let xp = 10001
+let xp = - 10001
 
 if (xp >= 0 && xp <= 1000) {
     console.log("O Herói " + heroi + " está no nível: Barro")
