@@ -31,4 +31,4 @@ function ranking(resultado) {
 let resultadoFinal = vitoriaDerrota(50,9)
 let nivel = ranking(resultadoFinal)
 
-console.log(`o Herói ${player} tem saldo de ${resultadoFinal} e está no nível ${nivel}!`)
+console.log(`O Herói ${player} tem saldo de ${resultadoFinal} e está no nível ${nivel}!`)
