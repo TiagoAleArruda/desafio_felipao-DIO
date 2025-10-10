@@ -17,7 +17,7 @@ let boloPronto = new formaDeBolo("laranja","maçã")
 let boloPremium = new formaDeBolo("Baunilha","Coco")
 
 boloPronto.toStringInfo()
-boloPronto.toStringAssar()
+
 console.log("--------")
 boloPremium.toStringInfo()
 boloPremium.toStringAssar()
